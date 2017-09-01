@@ -1,0 +1,14 @@
+.container{
+    display: grid;
+    grid-template-rows: 3fr 1fr;
+    justify-items: center;
+    align-items: center;
+    height: 100vh;
+}
+h1{
+    font-weight: 100;
+    font-size: 3.75rem;
+}
+.btn{
+    font-weight: 100;
+}
